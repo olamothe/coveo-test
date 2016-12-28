@@ -1,7 +1,7 @@
 {
   "name"		: "coveo-project",
   "version"		: "1.0.0",
-  "description"	: "npm install gulp",
+  "description"	: "Coveo REST Front-End project",
   "main"		: "gulp.js",
   "dependencies": {
     "gulp"	: "^3.9.1"
