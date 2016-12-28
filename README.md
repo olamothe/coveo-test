@@ -18,6 +18,9 @@ To test the UI, configure the URL in /tests/tests.js (line 13) and run:
 
 **npm test** OR ./tests/phantomjs tests.js
 
+Sample test result
+![](img.png)
+
 Note: PhantomJS included is for MacOSX, replace with appropriate version.
 
 # Demo
