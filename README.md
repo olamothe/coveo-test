@@ -14,14 +14,12 @@ This is the Coveo REST web front-end test.
 **npm run build** OR ./node_modules/gulp/bin/gulp.js
 
 # Testing
-To test the UI, configure the URL in /tests/tests.js (line 13) and run:
+To test the UI, configure the URL in /tests/tests.js (line 13), download the PhantomJS bin from http://phantomjs.org and run:
 
 **npm test** OR ./tests/phantomjs tests.js
 
 Sample test result
-![](img.png)
-
-Note: PhantomJS included is for MacOSX, replace with appropriate version.
+![sample](img.png)
 
 # Demo
 View the live demo at http://codeeverywhere.ca/coveo-test
